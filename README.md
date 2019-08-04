@@ -8,19 +8,23 @@
 <!-- 一章done -->
 <!-- TODO:二章やる -->
 
-## command
+
+## typescript install
 
 npm i typescript@next
 
 npm install -g typescript
 
+## create tsconfig.json
+
 tsc --init
 
-#### compile
+## compile
+
 tsc
 
-#### build 
+## build
 tsc -b PATH
 
-#### build-tool
+## build-tool
 https://parceljs.org/
